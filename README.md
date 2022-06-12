@@ -8,17 +8,13 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
 
-## Program:
+## Program
 ```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: 
-RegisterNumber:  
+Developed by: ILAYARAJA.M
+RegisterNumber: 212221040057 
 */
 ```
 
