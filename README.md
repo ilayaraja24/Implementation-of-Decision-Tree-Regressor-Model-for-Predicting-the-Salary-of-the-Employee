@@ -57,7 +57,24 @@ dt.predict([[5,6]])
 ## Output:
 
 ## HEAD:
-![GITHUB LOGO]()
+![GITHUB LOGO](o61.png)
 
+## INFO:
+![GITHUB LOGO](o62.png)
+
+## ISNULL:
+![GITHUB LOGO](o63.png)
+
+## LABELENCODER:
+![GITHUB LOGO](o64.png)
+
+## MSE:
+![GITHUB LOGO](o65.png)
+
+## R2:
+![GITHUB LOGO](o66.png)
+
+## PREDICT:
+![GITHUB LOGO](o67.png)
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
