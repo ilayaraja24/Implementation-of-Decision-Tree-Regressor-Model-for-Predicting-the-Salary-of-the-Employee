@@ -57,7 +57,7 @@ dt.predict([[5,6]])
 ## Output:
 
 ## HEAD:
-![GITHUB LOGO](o61.png)
+![GITHUB LOGO](O61.png)
 
 ## INFO:
 ![GITHUB LOGO](o62.png)
